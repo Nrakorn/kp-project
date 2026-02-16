@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เตรียมสอบ ก.พ.</title>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="page-body">
+
+    <div class="page-shell">
+        <!-- Header -->
+        <div class="page-header">
+            <div>
+                <h1 class="page-title">เตรียมสอบ ก.พ.</h1>
+                <p class="page-subtitle" id="sub-category-label">ฝึกฝนเพื่ออนาคตที่ดีกว่า</p>
+            </div>
+            <span id="progress" class="progress-badge hidden">
+                ข้อที่ 1/100
+            </span>
+            <div class="header-actions">
+                <button onclick="window.location.href='history.html'" id="history-btn"
+                    class="icon-btn icon-btn-history tooltip" title="ประวัติการทำข้อสอบ">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon-24" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                </button>
+                <button id="home-btn" class="icon-btn icon-btn-home">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon-24" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div id="main-content" class="main-content-card">
+            <!-- Content will be injected here via script.js -->
+            <div id="quiz-container" class="quiz-container">
+                <div class="loader-wrap">
+                    <div class="loader-panel">
+                        <div class="loader-spinner">
+                        </div>
+                        <p class="loader-text">กำลังเตรียมข้อสอบ...</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="result-screen" class="result-screen hidden">
+                <!-- Result screen content -->
+            </div>
+        </div>
+
+        <!-- Footer Info -->
+        <p class="page-footer">
+            &copy; 2026 ก.พ. ออกแบบเพื่อความสำเร็จของเพื่อน | v1.1
+        </p>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

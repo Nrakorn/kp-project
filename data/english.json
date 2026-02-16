@@ -1,0 +1,782 @@
+[
+    {
+        "question": "What does 'Ambitious' mean?",
+        "options": [
+            "Lazy",
+            "Determined to succeed",
+            "Shy",
+            "Friendly"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Ambitious means having a strong desire to succeed.",
+        "hint": "Someone who has 'big goals' and works hard for them."
+    },
+    {
+        "question": "Which word is a synonym of 'Happy'?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Joyful",
+            "Tired"
+        ],
+        "answer": 3,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Joyful is a synonym for happy.",
+        "hint": "Looking for a word that means feeling great 'pleasure' or 'delight'."
+    },
+    {
+        "question": "What is the opposite of 'Difficult'?",
+        "options": [
+            "Hard",
+            "Easy",
+            "Complex",
+            "Strong"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Easy is the opposite of difficult.",
+        "hint": "Something that doesn't take much 'effort' at all."
+    },
+    {
+        "question": "Select the correct spelling:",
+        "options": [
+            "Receive",
+            "Recieve",
+            "Receve",
+            "Resieve"
+        ],
+        "answer": 1,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "'Receive' follows the 'i before e except after c' rule.",
+        "hint": "Remember the rule: 'i' before 'e', except after 'c'."
+    },
+    {
+        "question": "Which word refers to 'a person who travels to space'?",
+        "options": [
+            "Pilot",
+            "Driver",
+            "Astronaut",
+            "Doctor"
+        ],
+        "answer": 3,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "An astronaut is a person trained to travel in a spacecraft.",
+        "hint": "This person wears a spacesuit and works in 'Outer Space'."
+    },
+    {
+        "question": "What does 'Brave' mean?",
+        "options": [
+            "Cowardly",
+            "Fearless",
+            "Smart",
+            "Weak"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Brave means showing courage.",
+        "hint": "Someone who is not afraid of 'danger'."
+    },
+    {
+        "question": "Identify the odd one out:",
+        "options": [
+            "Apple",
+            "Banana",
+            "Carrot",
+            "Mango"
+        ],
+        "answer": 3,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Carrot is a vegetable, the rest are fruits.",
+        "hint": "Three are 'fruits', but one is a 'vegetable' that grows underground."
+    },
+    {
+        "question": "Which word means 'very small'?",
+        "options": [
+            "Huge",
+            "Tiny",
+            "Large",
+            "Broad"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Tiny means very small.",
+        "hint": "The opposite of 'Gigantic'."
+    },
+    {
+        "question": "What is a 'Library'?",
+        "options": [
+            "A place to buy food",
+            "A place to keep books",
+            "A place to play sports",
+            "A place to sleep"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "A library is a building or room containing collections of books.",
+        "hint": "You go there to 'read or borrow books' in silence."
+    },
+    {
+        "question": "Which word is an action verb?",
+        "options": [
+            "Beautiful",
+            "Quickly",
+            "Run",
+            "Elephant"
+        ],
+        "answer": 3,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "'Run' is an action verb.",
+        "hint": "A word that describes 'moving your legs fast' to travel."
+    },
+    {
+        "question": "I ___ to the market yesterday.",
+        "options": [
+            "go",
+            "goes",
+            "went",
+            "going"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use past tense 'went' for 'yesterday'.",
+        "hint": "The keyword is 'yesterday', so you need the 'Past Tense' form."
+    },
+    {
+        "question": "She ___ a beautiful song now.",
+        "options": [
+            "sing",
+            "sings",
+            "is singing",
+            "sang"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use present continuous 'is singing' for 'now'.",
+        "hint": "The action is happening 'right now', so use 'is/am/are + V-ing'."
+    },
+    {
+        "question": "They ___ football every Sunday.",
+        "options": [
+            "play",
+            "plays",
+            "playing",
+            "played"
+        ],
+        "answer": 1,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use present simple 'play' for plural subjects and habits.",
+        "hint": "This is a 'regular habit', and the subject 'They' is plural."
+    },
+    {
+        "question": "He is the ___ student in the class.",
+        "options": [
+            "tall",
+            "taller",
+            "tallest",
+            "more tall"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use superlative 'tallest' for comparing more than two.",
+        "hint": "The phrase 'in the class' suggests a 'Superlative' comparison (the most ...)."
+    },
+    {
+        "question": "If it rains, I ___ at home.",
+        "options": [
+            "stay",
+            "will stay",
+            "stayed",
+            "would stay"
+        ],
+        "answer": 2,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "First conditional: If + present simple, will + base verb.",
+        "hint": "This is a 'Future Condition'. Use 'will' for the result."
+    },
+    {
+        "question": "This is ___ apple.",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+        ],
+        "answer": 2,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use 'an' before words starting with a vowel sound.",
+        "hint": "The word 'apple' starts with a 'Vowel' sound (A, E, I, O, U)."
+    },
+    {
+        "question": "Cats ___ milk.",
+        "options": [
+            "like",
+            "likes",
+            "liking",
+            "to like"
+        ],
+        "answer": 1,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Plural subject 'Cats' takes base verb 'like' in present simple.",
+        "hint": "The subject 'Cats' is plural, so the verb doesn't need an 's'."
+    },
+    {
+        "question": "He doesn't ___ coffee.",
+        "options": [
+            "drink",
+            "drinks",
+            "drinking",
+            "drank"
+        ],
+        "answer": 1,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "After 'does not', use base form of the verb.",
+        "hint": "After auxiliary verbs like 'do/does/did', always use the 'Base Form' (no s/ed/ing)."
+    },
+    {
+        "question": "Look! The bird ___ .",
+        "options": [
+            "fly",
+            "flies",
+            "is flying",
+            "flew"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use present continuous for actions happening at the moment.",
+        "hint": "The word 'Look!' signals that something is 'happening right now'."
+    },
+    {
+        "question": "We have known each other ___ 2010.",
+        "options": [
+            "for",
+            "since",
+            "during",
+            "until"
+        ],
+        "answer": 2,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use 'since' for a specific point in time.",
+        "hint": "Use 'since' for a 'Starting Point' in time (like a specific year)."
+    },
+    {
+        "question": "Read the text: 'John loves gardening. He plants flowers every morning.' What does John do in the morning?",
+        "options": [
+            "Cooks",
+            "Gardens",
+            "Sleeps",
+            "Works"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says he plants flowers, which is gardening.",
+        "hint": "The text mentions 'plants flowers', which is part of this activity."
+    },
+    {
+        "question": "'Global warming is causing ice to melt.' What is melting?",
+        "options": [
+            "Water",
+            "Ice",
+            "Fire",
+            "Rock"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text states 'ice to melt'.",
+        "hint": "Look for the word 'melt' in the sentence and see what comes before it."
+    },
+    {
+        "question": "'Sarah went to the store to buy milk and eggs.' Why did Sarah go to the store?",
+        "options": [
+            "To work",
+            "To buy groceries",
+            "To meet a friend",
+            "To clean"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "Milk and eggs are groceries.",
+        "hint": "Milk and eggs belong to the category of 'groceries' or food."
+    },
+    {
+        "question": "'The cat is sleeping under the table.' Where is the cat?",
+        "options": [
+            "On the table",
+            "In the table",
+            "Under the table",
+            "Beside the table"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'under the table'.",
+        "hint": "The 'Preposition of Place' used in the sentence is the answer."
+    },
+    {
+        "question": "'Exercising regularly is good for health.' What is good for health?",
+        "options": [
+            "Eating",
+            "Sleeping",
+            "Exercising",
+            "Reading"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'exercising regularly'.",
+        "hint": "The first word of the sentence describes the 'Activity' being discussed."
+    },
+    {
+        "question": "'Tom is a doctor. He works at City Hospital.' Where does Tom work?",
+        "options": [
+            "School",
+            "Bank",
+            "Hospital",
+            "Farm"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'City Hospital'.",
+        "hint": "His job as a 'doctor' is usually performed in this specific building."
+    },
+    {
+        "question": "'The Eiffel Tower is in Paris.' Where is the Eiffel Tower?",
+        "options": [
+            "London",
+            "New York",
+            "Paris",
+            "Tokyo"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'Paris'.",
+        "hint": "Paris is the capital city of 'France' where this tower is located."
+    },
+    {
+        "question": "'Water boils at 100 degrees Celsius.' At what temperature does water boil?",
+        "options": [
+            "0",
+            "50",
+            "100",
+            "200"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says '100 degrees'.",
+        "hint": "Look for the 'number' mentioned in the statement."
+    },
+    {
+        "question": "'I have a dog named Max. He is very friendly.' What is the dog's name?",
+        "options": [
+            "Sam",
+            "Max",
+            "Buddy",
+            "Rex"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'named Max'.",
+        "hint": "The 'Proper Noun' starting with M is the name of the dog."
+    },
+    {
+        "question": "'Swimming is my favorite sport.' What is the person's favorite sport?",
+        "options": [
+            "Running",
+            "Swimming",
+            "Tennis",
+            "Soccer"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'Swimming'.",
+        "hint": "The sentence starts with the 'name of the sport'."
+    },
+    {
+        "question": "A: 'How are you?' B: '___'",
+        "options": [
+            "I am fine, thank you.",
+            "I am a student.",
+            "I live in Bangkok.",
+            "I like pizza."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to 'How are you?'.",
+        "hint": "This is a greeting. You should answer about 'how you feel'."
+    },
+    {
+        "question": "A: 'Where are you from?' B: '___'",
+        "options": [
+            "I am from Japan.",
+            "I am 20 years old.",
+            "I am a teacher.",
+            "I have a cat."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to 'Where are you from?'.",
+        "hint": "The question asks about your 'country or origin'."
+    },
+    {
+        "question": "A: 'What time is it?' B: '___'",
+        "options": [
+            "It is Monday.",
+            "It is 10 o'clock.",
+            "It is sunny.",
+            "It is big."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to 'What time is it?'.",
+        "hint": "The question asks for a 'number' related to the clock."
+    },
+    {
+        "question": "A: 'Can you help me?' B: '___'",
+        "options": [
+            "No, I don't.",
+            "Yes, I can.",
+            "I am happy.",
+            "Welcome."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to help request.",
+        "hint": "Answer 'Yes' or 'No' based on the ability to help."
+    },
+    {
+        "question": "A: 'Nice to meet you.' B: '___'",
+        "options": [
+            "Good morning.",
+            "Nice to meet you too.",
+            "Thank you.",
+            "Goodbye."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to 'Nice to meet you'.",
+        "hint": "When someone says it's nice to meet you, you should say it back 'too'."
+    },
+    {
+        "question": "A: 'Would you like some coffee?' B: '___'",
+        "options": [
+            "Yes, please.",
+            "I am a doctor.",
+            "It is rain.",
+            "No, I don't."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response to an offer.",
+        "hint": "If you want it, say 'Yes, ...' followed by a polite word."
+    },
+    {
+        "question": "A: 'What do you do?' B: '___'",
+        "options": [
+            "I am drinking.",
+            "I am a teacher.",
+            "I go to school.",
+            "I am fine."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "'What do you do?' asks about profession.",
+        "hint": "The question asks about your 'Job' or 'Occupation'."
+    },
+    {
+        "question": "A: 'Sorry, I'm late.' B: '___'",
+        "options": [
+            "Never mind.",
+            "Thank you.",
+            "Yes, I am.",
+            "Goodbye."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Polite response to an apology.",
+        "hint": "A polite way to say 'It's okay' or 'Don't worry about it'."
+    },
+    {
+        "question": "A: 'How much is this?' B: '___'",
+        "options": [
+            "It is 5 kilometers.",
+            "It is 100 baht.",
+            "It is 2 o'clock.",
+            "It is red."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "'How much' asks about price.",
+        "hint": "The question is asking about the 'Price' or 'Cost' of something."
+    },
+    {
+        "question": "A: 'Happy Birthday!' B: '___'",
+        "options": [
+            "Me too.",
+            "Thank you!",
+            "You're welcome.",
+            "Happy New Year!"
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Response to a birthday wish.",
+        "hint": "When someone gives you a wish, the polite response is to 'express gratitude'."
+    },
+    {
+        "question": "What is a 'Cousin'?",
+        "options": [
+            "Your mother's sister",
+            "The child of your aunt or uncle",
+            "Your father's brother",
+            "Your sister's daughter"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "A cousin is the child of one's aunt or uncle.",
+        "hint": "This relative is the same 'generation' as you."
+    },
+    {
+        "question": "Which word means 'to breathe out'?",
+        "options": [
+            "Inhale",
+            "Exhale",
+            "Absorb",
+            "Expand"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Exhale means to breathe out.",
+        "hint": "The prefix 'Ex-' often means 'out'."
+    },
+    {
+        "question": "What is the collective noun for birds?",
+        "options": [
+            "Pack",
+            "Flock",
+            "Herd",
+            "Swarm"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "A group of birds is called a flock.",
+        "hint": "It starts with an 'F'."
+    },
+    {
+        "question": "Which word is a synonym for 'Huge'?",
+        "options": [
+            "Miniature",
+            "Sturdy",
+            "Gigantic",
+            "Swift"
+        ],
+        "answer": 3,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Gigantic is a synonym for huge.",
+        "hint": "Think of something 'G...' that is very big."
+    },
+    {
+        "question": "Identify the 'Antonym' of 'Sharp':",
+        "options": [
+            "Pointy",
+            "Dull",
+            "Acute",
+            "Bright"
+        ],
+        "answer": 2,
+        "category": "คำศัพท์ภาษาอังกฤษ",
+        "explanation": "Dull is the opposite of sharp.",
+        "hint": "A knife that doesn't cut well is 'D...'."
+    },
+    {
+        "question": "She ___ her homework yesterday evening.",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "done"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use past tense 'did' for 'yesterday'.",
+        "hint": "Look for the past time expression 'yesterday'."
+    },
+    {
+        "question": "This is the ___ movie I have ever seen.",
+        "options": [
+            "better",
+            "good",
+            "best",
+            "most good"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use superlative 'best' for comparisons.",
+        "hint": "The phrase 'I have ever seen' signals a superlative."
+    },
+    {
+        "question": "I have been staying here ___ three days.",
+        "options": [
+            "since",
+            "for",
+            "during",
+            "at"
+        ],
+        "answer": 2,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use 'for' with a duration of time.",
+        "hint": "'Three days' is a 'period' of time."
+    },
+    {
+        "question": "Listen! The baby ___.",
+        "options": [
+            "cry",
+            "cries",
+            "is crying",
+            "cried"
+        ],
+        "answer": 3,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "Use present continuous for actions happening now.",
+        "hint": "'Listen!' tells us it's happening at this moment."
+    },
+    {
+        "question": "___ you like a cup of tea?",
+        "options": [
+            "Do",
+            "Would",
+            "Can",
+            "Will"
+        ],
+        "answer": 2,
+        "category": "ไวยากรณ์ภาษาอังกฤษ",
+        "explanation": "'Would you like' is a polite offer.",
+        "hint": "This is a standard 'polite offer' structure."
+    },
+    {
+        "question": "'Polar bears live in the Arctic.' Where do polar bears live?",
+        "options": [
+            "Antarctica",
+            "Africa",
+            "The Arctic",
+            "Asia"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text states 'in the Arctic'.",
+        "hint": "The answer is clearly stated at the end of the sentence."
+    },
+    {
+        "question": "'Smoking is harmful to the lungs.' What is harmful to the lungs?",
+        "options": [
+            "Running",
+            "Eating",
+            "Smoking",
+            "Sleeping"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'Smoking is harmful'.",
+        "hint": "Identify the activity mentioned at the start of the sentence."
+    },
+    {
+        "question": "'The sun rises in the east.' Where does the sun rise?",
+        "options": [
+            "West",
+            "East",
+            "North",
+            "South"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text states 'in the east'.",
+        "hint": "Look for the 'Direction' mentioned."
+    },
+    {
+        "question": "'A gardener takes care of plants.' Who takes care of plants?",
+        "options": [
+            "A carpenter",
+            "A teacher",
+            "A gardener",
+            "A baker"
+        ],
+        "answer": 3,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text says 'A gardener'.",
+        "hint": "The subject who 'does' the action is at the start."
+    },
+    {
+        "question": "'Honey is made by bees.' What is made by bees?",
+        "options": [
+            "Milk",
+            "Honey",
+            "Silk",
+            "Wax"
+        ],
+        "answer": 2,
+        "category": "การอ่านภาษาอังกฤษ",
+        "explanation": "The text states 'Honey is made'.",
+        "hint": "Look for the 'Product' mentioned at the beginning."
+    },
+    {
+        "question": "A: 'What's the weather like?' B: '___'",
+        "options": [
+            "I like it.",
+            "It's sunny today.",
+            "No, thank you.",
+            "Yes, please."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "'What's the weather like?' asks about weather conditions.",
+        "hint": "Describe the state of the 'Sky' or 'Temperature'."
+    },
+    {
+        "question": "A: 'Could you pass me the salt, please?' B: '___'",
+        "options": [
+            "Yes, I can.",
+            "Here you are.",
+            "Thank you.",
+            "No way."
+        ],
+        "answer": 2,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Standard response when handing something to someone.",
+        "hint": "Use the phrase for 'Giving' something to another person."
+    },
+    {
+        "question": "A: 'Can I help you?' B: '___'",
+        "options": [
+            "I'm looking for a shirt.",
+            "Yes, I do.",
+            "You are welcome.",
+            "Never mind."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Information response to an offer of help in a shop.",
+        "hint": "If you are in a shop, you tell the assistant what you 'want'."
+    },
+    {
+        "question": "A: 'Excuse me, where is the station?' B: '___'",
+        "options": [
+            "It's over there.",
+            "I'm fine.",
+            "Yes, it is.",
+            "No, it isn't."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Response giving direction.",
+        "hint": "Point to the 'Location' of the place."
+    },
+    {
+        "question": "A: 'Would you like to come to my party?' B: '___'",
+        "options": [
+            "I'm sorry, I'm busy.",
+            "Yes, I do.",
+            "It's fine.",
+            "No, I don't."
+        ],
+        "answer": 1,
+        "category": "บทสนทนาภาษาอังกฤษ",
+        "explanation": "Polite way to refuse an invitation.",
+        "hint": "A polite 'No' followed by a reason."
+    }
+]
